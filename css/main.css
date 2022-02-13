@@ -210,6 +210,10 @@ Primary use:
   opacity: 0.3;
 }
 
+.banner{
+  background-color: #0000006b;
+}
+
 .overlay1::after {
   content: "";
   display: block;
